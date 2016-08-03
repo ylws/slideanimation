@@ -15,6 +15,8 @@
 *			"animationbackname":["back","back1","back2"],//取消动画名称   =动画名称+数组名 cancelanimationfun=animation name +animationbackname arr name
 *		})
 */
+
+#
 #any questions maito 474569696@qq.com
 #
 
